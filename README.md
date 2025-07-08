@@ -9,7 +9,11 @@ A static front-end clone of Amazon’s homepage crafted using pure HTML and CSS 
    - Delivery location  
    - Language selector  
    - Search bar with dropdown  
-   - Account, Orders, and Cart sections  
+   - Account, Orders, and Cart sections
+
+# Preview
+<img width="1706" alt="Screenshot 2025-07-08 at 11 34 09 AM" src="https://github.com/user-attachments/assets/c5076038-5430-4a56-bd55-e1d672ef6b7a" />
+
 
 ## 🖼️ Hero section with promotional message and background image  
 
