@@ -11,10 +11,6 @@ A static front-end clone of Amazon’s homepage crafted using pure HTML and CSS 
    - Search bar with dropdown  
    - Account, Orders, and Cart sections
 
-# Preview
-<img width="1706" alt="Screenshot 2025-07-08 at 11 34 09 AM" src="https://github.com/user-attachments/assets/c5076038-5430-4a56-bd55-e1d672ef6b7a" />
-
-
 ## 🖼️ Hero section with promotional message and background image  
 
 ## 📦 Product showcase grid:
@@ -42,3 +38,11 @@ Component              | Technology
 Structure              | HTML5  
 Styling                | CSS3  
 Icons                  | Font Awesome CDN  
+
+
+# Preview
+<img width="1707" alt="Screenshot 2025-07-08 at 11 33 50 AM" src="https://github.com/user-attachments/assets/bd290459-640e-4334-987e-2ef8c9ed510f" />
+
+<img width="1705" alt="Screenshot 2025-07-08 at 11 33 58 AM" src="https://github.com/user-attachments/assets/e0cda354-e043-4fb5-89f0-dc596a987c08" />
+
+<img width="1706" alt="Screenshot 2025-07-08 at 11 34 09 AM" src="https://github.com/user-attachments/assets/0a5c511f-2bab-44d3-adc4-7dc504c9079b" />
