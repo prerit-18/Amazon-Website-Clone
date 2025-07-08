@@ -4,26 +4,26 @@ A static front-end clone of Amazon’s homepage crafted using pure HTML and CSS 
 
 🚀 Features
 
-🔍 Functional Amazon-style navigation bar with:
+## 🔍 Functional Amazon-style navigation bar with:
    - Logo  
    - Delivery location  
    - Language selector  
    - Search bar with dropdown  
    - Account, Orders, and Cart sections  
 
-🖼️ Hero section with promotional message and background image  
+## 🖼️ Hero section with promotional message and background image  
 
-📦 Product showcase grid:
+## 📦 Product showcase grid:
    - 8 category-based boxes (e.g., Clothing, Electronics, Beauty)  
    - Clickable "See more" links and styled thumbnails  
 
-📋 Fully designed footer with:
+## 📋 Fully designed footer with:
    - Information panels (About, Help, Make Money)  
    - Legal disclaimers and copyright  
 
-📷 Uses Font Awesome icons and placeholders to mimic Amazon’s interface  
+## 📷 Uses Font Awesome icons and placeholders to mimic Amazon’s interface  
 
-🎨 UI & Styling
+## 🎨 UI & Styling
 
 • Clean and modular CSS  
 • Box hover effects  
@@ -31,7 +31,7 @@ A static front-end clone of Amazon’s homepage crafted using pure HTML and CSS 
 • Image backgrounds for boxes and hero  
 • Adaptive layout using flexbox  
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 Component              | Technology  
 ---------------------- | ----------------------------  
