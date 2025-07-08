@@ -45,4 +45,4 @@ Icons                  | Font Awesome CDN
 
 <img width="1705" alt="Screenshot 2025-07-08 at 11 33 58 AM" src="https://github.com/user-attachments/assets/e0cda354-e043-4fb5-89f0-dc596a987c08" />
 
-<img width="1706" alt="Screenshot 2025-07-08 at 11 34 09 AM" src="https://github.com/user-attachments/assets/0a5c511f-2bab-44d3-adc4-7dc504c9079b" />
+<img width="1710" alt="Screenshot 2025-07-08 at 11 38 38 AM" src="https://github.com/user-attachments/assets/58ae28fc-349f-49be-bad3-879246227db7" />
