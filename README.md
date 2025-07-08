@@ -1,4 +1,4 @@
-🛒 Amazon Homepage Clone using HTML & CSS 🌐🎨
+# 🛒 Amazon Homepage Clone using HTML & CSS 🌐🎨
 
 A static front-end clone of Amazon’s homepage crafted using pure HTML and CSS — a tribute to modern UI structure and responsive design.
 
